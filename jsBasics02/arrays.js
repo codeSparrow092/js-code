@@ -49,3 +49,4 @@ console.log("splice elements ",myn2);
 
 
 
+
